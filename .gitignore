@@ -1,6 +1,6 @@
 #Ignore below files
 
-.terraform/
+.terraform/*
 *.tfstate
 *.tfstate.backup
 *.pdf
